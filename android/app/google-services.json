@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "960166493216",
+    "project_id": "citushealthandroid",
+    "storage_bucket": "citushealthandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960166493216:android:9e9768bfe1b55f01f1d045",
+        "android_client_info": {
+          "package_name": "com.citus.stage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADDWk6OYi4F-ExFwjbSCx-EAc9w6FlPSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

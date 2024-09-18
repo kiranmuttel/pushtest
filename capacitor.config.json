@@ -1,0 +1,12 @@
+{
+    "plugins": {
+      "PushNotifications": {
+        "presentationOptions": ["badge", "sound", "alert"],
+        "iconColor": "#488AFF"
+      },
+      "Badge": {
+      "persist": true,
+      "autoClear": false
+    }
+    }
+  }
